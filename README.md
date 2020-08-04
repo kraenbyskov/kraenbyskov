@@ -2,11 +2,10 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Painting Program][mypainter]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Get a full understanding of React.
+- ⚡ Fun fact: I love Mountain Biking, Climing and Skiieng
 
 ### Connect with me:
 
@@ -35,6 +34,7 @@
 <br />
 <br />
 
-[website]: https://Kraenbyskov.dk
+[website]: https://kraenbyskovportfolio.web.app/
+[mypainter]: https://mypainter-d50c0.web.app/
 [instagram]: https://www.instagram.com/kranbyskov/
 [linkedin]: https://www.linkedin.com/in/kr%C3%A6n-byskov-a4414362/
