@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on a [Painting Program][mypainter]!
+- 🔭 I’m currently working on a [Painting Website][mypainter]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Get a full understanding of React.
 - ⚡ Fun fact: I love Mountain Biking, Climing and Skiieng
@@ -32,7 +32,18 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+---
+
 <br />
+<img align="left" alt="Kraenbyskov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kraenbyskov&show_icons=true&hide_border=true" />
+<br />
+
+---
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kraenbyskov&layout)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://kraenbyskovportfolio.web.app/
 [mypainter]: https://mypainter-d50c0.web.app/
