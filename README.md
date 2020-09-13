@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on a [Painting Website][mypainter]!
+- 🔭 I’m currently working on a [Painting Website][mypainter]! and a Messenger app [Messenger]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Get a full understanding of React.
 - ⚡ Fun fact: I love Mountain Biking, Climing and Skiieng
@@ -44,3 +44,4 @@
 [mypainter]: https://mypainter-d50c0.web.app/
 [instagram]: https://www.instagram.com/kranbyskov/
 [linkedin]: https://www.linkedin.com/in/kr%C3%A6n-byskov-a4414362/
+[Messenger]: https://dhe-messenger.web.app/
